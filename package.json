@@ -1,0 +1,23 @@
+{
+  "name": "selenium-cucumber-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.7.0"
+  },
+  "scripts": {
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpswim90/selenium-cucumber-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpswim90/selenium-cucumber-poc/issues"
+  },
+  "homepage": "https://github.com/bpswim90/selenium-cucumber-poc#readme"
+}
